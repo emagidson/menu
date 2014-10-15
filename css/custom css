@@ -28,12 +28,12 @@ h1 {
 ul.navbar li {
   background: white;
   margin: 0.5em 0;
-  padding: 0.3em;
+  padding: 0.4em;
   border-right: 1em solid black }
 ul.navbar a {
   text-decoration: none }
 a:link {
-  color: blue }
+  color: beige }
 a:visited {
   color: purple }
 address {
@@ -45,9 +45,6 @@ address {
 </head>
 <body>
 
-
-<h1>My First CSS Example</h1>
-<p>This is a paragraph.</p>
 
 </body>
 </html>
