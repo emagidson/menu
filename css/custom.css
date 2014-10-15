@@ -9,36 +9,68 @@ body {
 }
 
 body {
-  padding-left: 11em;
-  font-family: Georgia, "Times New Roman",
-        Times, serif;
-  color: purple;
-  background-color: #d8da3d }
-ul.navbar {
-  list-style-type: none;
-  padding: 0;
-  margin: 0;
-  position: absolute;
-  top: 2em;
-  left: 1em;
-  width: 9em }
+}
+
+.jumbotron {
+	font-family: "britannic bold";
+}
+
+.jumbotron {
+    background-image: url('../mac.jpg');
+}
+
+body {
+    background-color: white;
+}
+
+h4 {
+	padding-left: 2cm;
+}
+
+.navbar-inverse{
+	background-color: #E68A00;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+	color: black;
+	font-family: "britannic bold";
+	font-size: 20px;
+}
+
+.column1 {
+height: 30em;
+margin-bottom: 1em;
+background-image: url('../13.png');
+background-repeat: no-repeat;
+}
+
+.column2 {
+height: 30em;
+margin-bottom: 1em;
+background-image: url('../11.png');
+background-repeat: no-repeat;
+}
+.column3 {
+height: 30em;
+margin-bottom: 1em;
+background-image: url('../12.png');
+background-repeat: no-repeat;
+}
+		
+.column1, .column2, .column3 {
+width: 31.3%;
+float: left;
+margin: 1%;
+}
+
 h1 {
-  font-family: Helvetica, Geneva, Arial,
-        SunSans-Regular, sans-serif }
-ul.navbar li {
-  background: white;
-  margin: 0.5em 0;
-  padding: 0.4em;
-  border-right: 1em solid black }
-ul.navbar a {
-a:link {
-  color: beige }
-a:visited {
-  color: purple }
-address {
-  margin-top: 1em;
-  padding-top: 1em;
-  border-top: thin dotted }
+	font-family: "britannic bold";
+}
+
+a {
+	color: #A54808;
+}
+
 }
 </style>
 </head>
