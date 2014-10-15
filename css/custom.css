@@ -4,24 +4,17 @@
 <html>
 <head>
 <style>
+
 <style type="text/css">
-  body { color: black; background: beige; }
+  body { margin-left: 10%; margin-right: 10%; }
+  h1 { margin-left: -8%;}
+  h2,h3,h4,h5,h6 { margin-left: -4%; }
 </style>
-body {
-    background-color: #00ff00;
-}
 
 
 body {
-    background-color: white;
-}
+    background-color: yellow;
 
-h1 {
-	padding-left: 2cm;
-}
-
-.navbar-inverse{
-	background-color: #E68A00;
 }
 
 .navbar-inverse .navbar-nav>li>a {
@@ -31,22 +24,19 @@ h1 {
 }
 
 .column1 {
-height: 30em;
-margin-bottom: 1em;
-background-image: url('../13.png');
+height: 35em;
+margin-bottom: 2em;
 background-repeat: no-repeat;
 }
 
 .column2 {
-height: 30em;
-margin-bottom: 1em;
-background-image: url('../11.png');
+height: 35em;
+margin-bottom: 2em;
 background-repeat: no-repeat;
 }
 .column3 {
-height: 30em;
-margin-bottom: 1em;
-background-image: url('../12.png');
+height: 35em;
+margin-bottom: 2em;
 background-repeat: no-repeat;
 }
 		
@@ -65,6 +55,8 @@ a {
 }
 
 }
+
+h2 {	font-family: "garamond";
 </style>
 </head>
 <body>
