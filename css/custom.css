@@ -8,22 +8,12 @@ body {
     background-color: #00ff00;
 }
 
-body {
-}
-
-.jumbotron {
-	font-family: "britannic bold";
-}
-
-.jumbotron {
-    background-image: url('../mac.jpg');
-}
 
 body {
     background-color: white;
 }
 
-h4 {
+h1 {
 	padding-left: 2cm;
 }
 
@@ -33,8 +23,8 @@ h4 {
 
 .navbar-inverse .navbar-nav>li>a {
 	color: black;
-	font-family: "britannic bold";
-	font-size: 20px;
+	font-family: "garamond";
+	font-size: 25px;
 }
 
 .column1 {
@@ -64,7 +54,7 @@ margin: 1%;
 }
 
 h1 {
-	font-family: "britannic bold";
+	font-family: "garamond";
 }
 
 a {
